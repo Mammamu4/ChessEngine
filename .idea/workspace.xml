@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af50c174-666b-4eb0-9daa-13c3a86c5894" name="Changes" comment="" />
+    <list default="true" id="af50c174-666b-4eb0-9daa-13c3a86c5894" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ChessboardStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ChessboardStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/SimpleChessboardStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/SimpleChessboardStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pieces/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pieces/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pieces/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pieces/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pieces/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pieces/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pieces/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pieces/Rook.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,14 +46,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/Fredrik.etsare/IdeaProjects/ChessEngine/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pieces" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="ChessEngine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,19 +86,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708777589827</updated>
-      <workItem from="1708777590728" duration="4000" />
+      <workItem from="1708777590728" duration="7793000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
