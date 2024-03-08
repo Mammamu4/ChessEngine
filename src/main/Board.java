@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class Board extends JPanel {
 
-    public int tileSize = 85;
+    public int tileSize = 50;
 
     final int cols = 8;
     final int rows = 8;
@@ -44,6 +44,8 @@ public class Board extends JPanel {
         move.piece.row = move.newRow;
         move.piece.xPos = move.newCol * tileSize;
         move.piece.yPos = move.newRow * tileSize;
+
+        move.piece.isFirstMove = false;
 
         capture(move);
     }

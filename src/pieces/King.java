@@ -19,7 +19,9 @@ public class King extends Piece{
 
     }
 
-
+    public boolean isValidMovement(int col, int row){
+        return Math.abs((col - this.col) * (row - this.row)) == 1 || (Math.abs(col - this.col) + Math.abs(row - this.row)) == 1;
+    }
 
     private boolean canCastle(int col, int row){
         return false;
